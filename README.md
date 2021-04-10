@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vime98
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning Web development and Data Science
-- 💞️ I’m looking to collaborate on everyone
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me vieyra188@gmail.com
 
 <!---
